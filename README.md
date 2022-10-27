@@ -1,1 +1,3 @@
-# Hotel_Guido_With_Functions
+# Hotel-Guido-with-functions
+
+This is a small project from my python course.
