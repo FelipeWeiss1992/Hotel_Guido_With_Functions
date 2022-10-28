@@ -34,11 +34,9 @@ def listarHospedes():
     return hospedes        
 
 def procurarHospedes(pessoa):
-    indice = 0
     hospede = 0
     arquivo = open('listaHospedes.txt', 'r')
     for linha in arquivo:
-        indice += 1
         if pessoa == eval(linha)['Nome']:
             print(linha)
             hospede += 1
