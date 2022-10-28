@@ -7,8 +7,6 @@ def menu():
 
     while True:
         try:
-            print('Lista de Hóspedes')
-            print(listarHospedes(),'\n')
             print('\033[32m1 - Fazer Check-In\n2 - Listar Hóspedes\n3 - Procurar Hóspedes\n4 - Fazer Check-Out\n5 - Sair\033[0;0m\n')
             opcaoMenu = int(input('\033[33mDigite uma das Opções: \033[0;0m'))
 

@@ -1,3 +1,2 @@
 {'Nome': 'Felipe', 'CPF': 89785768574, 'Idade': 30}
-{'Nome': 'Bruno', 'CPF': 34677890989, 'Idade': 27}
 {'Nome': 'Pedro', 'CPF': 12365478909, 'Idade': 45}
